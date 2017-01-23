@@ -8,6 +8,8 @@ Introduction to R (for Spatial Stats)
 
 Spring 2017
 
+https://github.com/jehopark/r_seminar_math161.git
+
 Reference:
 ========================================================
 
@@ -25,6 +27,8 @@ Some Housekeeping Stuff (NEED UPDATE)
 - **R scripts** at http://bit.ly/hmc-r-bootcamp-file
 - **Data files** at at http://bit.ly/r-seminar-data-folder 
 
+Or just download all the files from 
+https://github.com/jehopark/r_seminar_math161.git
 
 Agenda
 ========================================================
@@ -163,8 +167,10 @@ rm(airmiles) # removes user defined object airmiles
 
 R Programming Environment (cont.)
 =========================
-+ R project
-+ Version control with git and github/bitbucket
+## R project
++ Version control with git and github/bitbucket:<br>
+http://bit.ly/r-version-control 
+
 
 Module 1: The Basics of R (25 min)
 ========================================================
@@ -663,3 +669,8 @@ if (y < 0 && debug) {
   message("Y is not negative")
 }
 ```
+
+Questions?
+==============================
+
+# QnA
