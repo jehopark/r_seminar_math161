@@ -1,2 +1,2 @@
-# r_seminar_math161
+# Math161 R Seminar 
 R seminar for spatial statistics (Math 161) at Harvey Mudd College
